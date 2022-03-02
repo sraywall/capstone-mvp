@@ -1,8 +1,8 @@
-# ToKanDoBan
+# ToKanDo
 
 
 ## Summary
-ToKanDoBan is a todo/kanban app, hence the name.  Users can sign up, login, create boards with lists and items to be completed within those lists.  Items can be manually sorted by priority and moved from list to list to denote various stages of completion like a kanban (trello-like).
+ToKanDo is a todo/kanban app, hence the name.  Users can sign up, login, create boards with lists and items to be completed within those lists.  Items can be manually sorted by priority and moved from list to list to denote various stages of completion like a kanban (trello-like).
 
 ## MVP
 ### Pages
